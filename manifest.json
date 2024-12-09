@@ -1,0 +1,20 @@
+{
+    "name": "Scribble",
+    "short_name": "scribble",
+    "manifest_version": 2,
+    "version": "0.0.1",
+    "browser_action": {
+        "default_popup": "index.js",
+        "default_title": "scribble",
+        "default_icon": "public/favicon.ico"
+    },
+    "icons": {
+        "16": "public/icon16.png",
+        "48": "public/icon48.png",
+        "128": "public/icon128.png"
+    },
+    "permissions": [],
+    "web_accessible_resources":[
+        
+    ]
+}
